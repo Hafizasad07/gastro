@@ -63,7 +63,9 @@ body{
     letter-spacing: 0.96px;
     text-transform: uppercase;
 }
-
+.section6-rmone-para.new{
+    color: #000000;
+}
 .hero-section .text2{
     color: #fff;
     text-align: center;
