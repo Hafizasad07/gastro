@@ -419,8 +419,10 @@ body{
     align-items: center;
     background-image: url(../images/rmseven/hero-section.png) !important;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     height: 60vh;
+    background-position: center;
+    margin-top: -1px;
 }
 
 .rmseven-video{
@@ -1491,6 +1493,7 @@ select option{
 .section1-rmseven{
     padding-top: 40px;
     background: #000000;
+    margin-top: -1px;
 }
 
 .bg-rows-sections{
@@ -2039,10 +2042,6 @@ select option{
 
     .owl-carousel .owl-item img{
         height: 330px !important;
-    }
-
-    .rmseven-bg{
-        height: 50vh;
     }
 
     .rmthree-coma{
