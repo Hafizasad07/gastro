@@ -719,9 +719,9 @@ input::placeholder{
     justify-content: space-between;
 }
 
-.section7-rmone-btn.rmtwo{
-/*     padding-left: 130px; */
-}
+/* .section7-rmone-btn.rmtwo{
+    padding-left: 130px;
+} */
 .section7-rmtwo-form .form-select:focus{
     box-shadow: none;
 }
