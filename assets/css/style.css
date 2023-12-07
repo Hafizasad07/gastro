@@ -719,14 +719,14 @@ input::placeholder{
 }
 
 .section7-rmone-btn.rmtwo{
-    padding-left: 130px;
+/*     padding-left: 130px; */
 }
 .section7-rmtwo-form .form-select:focus{
     box-shadow: none;
 }
 
 .rmtwo-form-div{
-/*     padding-left: 130px; */
+    padding-left: 130px;
 }
 
 .section7-rmtwo-form .form-select{
