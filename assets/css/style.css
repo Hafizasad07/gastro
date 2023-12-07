@@ -450,6 +450,7 @@ body{
     background: #000000;
     padding-top: 40px;
     padding-bottom: 40px;
+    margin-top: -1px;
 }
 
 .section1-rmone-paragraph{
@@ -850,6 +851,7 @@ select option{
 .section1-rmthree{
     padding-top: 40px;
     background: #000000;
+    margin-top: -1px;
 }
 
 .section1-rmthree-heading{
@@ -2066,6 +2068,9 @@ select option{
         margin-top: -2px;
     }
 
+    .rmthree-coma{
+        bottom: 77%;
+    }
     .container{
         max-width: 1450px;
     }
